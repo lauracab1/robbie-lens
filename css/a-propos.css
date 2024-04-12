@@ -1,0 +1,24 @@
+section h1 {
+	text-align: center;
+}
+
+section {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.services h2 {
+	margin: 30px 0 80px;
+	text-align: center;
+}
+
+.services {
+	padding: 50px 60px;
+	border-right: 1px solid #8E86B5;
+	border-bottom: 1px solid #8E86B5;
+	margin-bottom: 80px;
+}
+
+.services + div {
+	text-align: center;
+}
